@@ -1,16 +1,3 @@
-"""
-Enhanced 3D First-Person Shooter Game
-Built with Pygame + PyOpenGL (Python 3.12+ Compatible)
-
-Controls:
-- WASD: Move
-- Mouse: Look around
-- Left Click: Shoot
-- R: Reload
-- 1/2/3: Switch weapons
-- P or ESC: Pause menu
-"""
-
 import pygame
 from pygame.locals import *
 from OpenGL.GL import *
